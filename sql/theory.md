@@ -59,6 +59,7 @@ CREATE INDEX idx_employees_dept ON employees (dept_id);
 **Про индексы**: ускоряют чтение, но замедляют `INSERT`/`UPDATE`/`DELETE` и занимают место.
 Индекс не будет использован, если колонка обернута функцией (`WHERE UPPER(name) = ...`) —
 для таких случаев создают функциональный индекс `CREATE INDEX ON t (lower(name))`.
+Виды индексов, устройство B-tree и составные индексы — в [`indexes.md`](indexes.md).
 
 ---
 

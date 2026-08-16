@@ -20,6 +20,8 @@
 | 08 | [rechevye-priemy.md](08-rechevye-priemy.md) | Речевые техники: STAR, XYZ, Sandwich, Present-Past-Future |
 | 09 | [ai-workflow.md](09-ai-workflow.md) | Подготовка через нейросети (Claude / ChatGPT) |
 | 10 | [resursy-i-ssylki.md](10-resursy-i-ssylki.md) | Сайты, сервисы, внешние материалы |
+| 11 | [navyki-v-rezyume-go.md](11-navyki-v-rezyume-go.md) | Навыки в резюме гошника: топ по частотности в вакансиях |
+| 12 | [revyu-koda-na-sobese.md](12-revyu-koda-na-sobese.md) | Задачи на ревью кода: подход, разбор примера, чек-лист |
 
 Готовые промпты вынесены отдельно в [prompts/](prompts/) — на них ссылаются
 файлы 02 и 09.
